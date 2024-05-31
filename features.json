@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Responsive Design",
+    "description": "Our product is fully responsive and works on all devices, including desktops, tablets, and smartphones.",
+    "subFeatures": [
+      {
+        "id": 1.1,
+        "title": "Mobile Optimization",
+        "description": "Optimized for mobile devices to provide a seamless user experience on smaller screens."
+      },
+      {
+        "id": 1.2,
+        "title": "Cross-Browser Compatibility",
+        "description": "Compatible with all major browsers including Chrome, Firefox, Safari, and Edge."
+      },
+      {
+        "id": 1.3,
+        "title": "Adaptive Images",
+        "description": "Serves appropriately sized images based on the device's screen size."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "High Performance",
+    "description": "Engineered to deliver high performance and fast load times.",
+    "subFeatures": [
+      {
+        "id": 2.1,
+        "title": "Optimized Code",
+        "description": "Written with best practices to ensure fast and efficient execution."
+      },
+      {
+        "id": 2.2,
+        "title": "Caching Strategies",
+        "description": "Utilizes advanced caching strategies to reduce load times and server load."
+      },
+      {
+        "id": 2.3,
+        "title": "Lazy Loading",
+        "description": "Implements lazy loading to defer loading of off-screen images and content."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Security",
+    "description": "Built with security in mind to protect your data and privacy.",
+    "subFeatures": [
+      {
+        "id": 3.1,
+        "title": "Data Encryption",
+        "description": "Ensures that all data is encrypted using industry-standard protocols."
+      },
+      {
+        "id": 3.2,
+        "title": "Regular Updates",
+        "description": "Regularly updated to patch vulnerabilities and improve security."
+      },
+      {
+        "id": 3.3,
+        "title": "Two-Factor Authentication",
+        "description": "Supports two-factor authentication for an added layer of security."
+      }
+    ]
+  }
+]
