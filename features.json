@@ -3,21 +3,25 @@
     "id": 1,
     "title": "Responsive Design",
     "description": "Our product is fully responsive and works on all devices, including desktops, tablets, and smartphones.",
+    "image": "./src/assets/image/feature-1.webp",
     "subFeatures": [
       {
         "id": 1.1,
+        "image": "./src/assets/image/feature-1.1.webp",
         "title": "Mobile Optimization",
-        "description": "Optimized for mobile devices to provide a seamless user experience on smaller screens."
+        "description": "Optimized for mobile devices to provide a seamless user experience on smaller screens. Ensures that the layout, images, and text are scaled appropriately, making it easy to navigate and interact with the site on any mobile device."
       },
       {
         "id": 1.2,
+        "image": "./src/assets/image/feature-1.2.webp",
         "title": "Cross-Browser Compatibility",
-        "description": "Compatible with all major browsers including Chrome, Firefox, Safari, and Edge."
+        "description": "Compatible with all major browsers including Chrome, Firefox, Safari, and Edge. This means that users will have a consistent and smooth experience no matter which browser they use to access the site, avoiding any visual or functional discrepancies."
       },
       {
         "id": 1.3,
+        "image": "./src/assets/image/feature-1.3.webp",
         "title": "Adaptive Images",
-        "description": "Serves appropriately sized images based on the device's screen size."
+        "description": "Serves appropriately sized images based on the device's screen size. This helps in reducing load times and ensuring that images look crisp and clear on all devices, whether it’s a high-resolution desktop monitor or a small mobile screen."
       }
     ]
   },
@@ -25,21 +29,25 @@
     "id": 2,
     "title": "High Performance",
     "description": "Engineered to deliver high performance and fast load times.",
+    "image": "./src/assets/image/feature-2.webp",
     "subFeatures": [
       {
         "id": 2.1,
+        "image": "./src/assets/image/feature-2.1.webp",
         "title": "Optimized Code",
-        "description": "Written with best practices to ensure fast and efficient execution."
+        "description": "Written with best practices to ensure fast and efficient execution. This involves using clean, minimal, and well-organized code structures that enhance the speed of page rendering and interaction, leading to a smoother user experience."
       },
       {
         "id": 2.2,
+        "image": "./src/assets/image/feature-2.2.webp",
         "title": "Caching Strategies",
-        "description": "Utilizes advanced caching strategies to reduce load times and server load."
+        "description": "Utilizes advanced caching strategies to reduce load times and server load. By storing copies of frequently accessed data, the system can quickly serve this information without repeatedly querying the database, significantly boosting performance."
       },
       {
         "id": 2.3,
+        "image": "./src/assets/image/feature-2.3.webp",
         "title": "Lazy Loading",
-        "description": "Implements lazy loading to defer loading of off-screen images and content."
+        "description": "Implements lazy loading to defer loading of off-screen images and content. This technique improves initial page load times and decreases the amount of data that needs to be fetched immediately, thus enhancing the overall user experience."
       }
     ]
   },
@@ -47,21 +55,25 @@
     "id": 3,
     "title": "Security",
     "description": "Built with security in mind to protect your data and privacy.",
+    "image": "./src/assets/image/feature-3.webp",
     "subFeatures": [
       {
         "id": 3.1,
+        "image": "./src/assets/image/feature-3.1.webp",
         "title": "Data Encryption",
-        "description": "Ensures that all data is encrypted using industry-standard protocols."
+        "description": "Ensures that all data is encrypted using industry-standard protocols. This provides a high level of security for sensitive information, making it extremely difficult for unauthorized parties to access or intercept the data."
       },
       {
         "id": 3.2,
+        "image": "./src/assets/image/feature-3.2.webp",
         "title": "Regular Updates",
-        "description": "Regularly updated to patch vulnerabilities and improve security."
+        "description": "Regularly updated to patch vulnerabilities and improve security. Frequent updates ensure that the system is protected against the latest threats, maintaining the integrity and confidentiality of user data."
       },
       {
         "id": 3.3,
+        "image": "./src/assets/image/feature-3.3.webp",
         "title": "Two-Factor Authentication",
-        "description": "Supports two-factor authentication for an added layer of security."
+        "description": "Supports two-factor authentication for an added layer of security. This requires users to provide two forms of verification before gaining access, significantly reducing the risk of unauthorized access even if one factor is compromised."
       }
     ]
   }
