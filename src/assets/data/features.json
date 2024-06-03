@@ -4,6 +4,7 @@
     "title": "Responsive Design",
     "description": "Our product is fully responsive and works on all devices, including desktops, tablets, and smartphones.",
     "image": "./src/assets/image/feature-1.webp",
+    "icon": "./src/assets/icons/icon-responsive.png",
     "subFeatures": [
       {
         "id": 1.1,
@@ -30,6 +31,7 @@
     "title": "High Performance",
     "description": "Engineered to deliver high performance and fast load times.",
     "image": "./src/assets/image/feature-2.webp",
+    "icon": "./src/assets/icons/icon-performance.png",
     "subFeatures": [
       {
         "id": 2.1,
@@ -56,6 +58,7 @@
     "title": "Security",
     "description": "Built with security in mind to protect your data and privacy.",
     "image": "./src/assets/image/feature-3.webp",
+    "icon": "./src/assets/icons/icon-security.png",
     "subFeatures": [
       {
         "id": 3.1,

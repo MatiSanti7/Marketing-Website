@@ -3,7 +3,7 @@ const SubFeature = ({ subfeature }) => {
   return (
     <div className="flex flex-col gap-5 xl:flex-row">
       <div className="flex w-full h-36 xl:h-48 xl:w-1/3">
-        <div className="flex justify-end w-full h-full bg-blue-200 rounded-md">
+        <div className="flex justify-end w-full h-full bg-blue-400 rounded-md">
           <img
             src={"../" + subfeature.image}
             alt={subfeature.title}

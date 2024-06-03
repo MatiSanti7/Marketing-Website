@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Basic",
+    "price": 19.99,
+    "duration": "month",
+    "description": "Perfect for individuals and small businesses starting out.",
+    "features": ["Access to Basic Features", "Email Support", "10 GB Storage"]
+  },
+  {
+    "title": "Pro",
+    "price": 49.99,
+    "duration": "month",
+    "description": "Ideal for growing businesses that need more features and support.",
+    "features": [
+      "Access to All Basic Features",
+      "Priority Email Support",
+      "100 GB Storage",
+      "Advanced Analytics"
+    ]
+  },
+  {
+    "title": "Enterprise",
+    "price": 99.99,
+    "duration": "month",
+    "description": "Comprehensive solution for large businesses with advanced needs.",
+    "features": [
+      "Access to All Pro Features",
+      "24/7 Phone Support",
+      "Unlimited Storage",
+      "Customizable Solutions",
+      "Dedicated Account Manager"
+    ]
+  }
+]

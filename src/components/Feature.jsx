@@ -4,10 +4,14 @@ const Feature = ({ feature }) => {
   return (
     <div
       id={feature.id}
-      className="transition-all duration-500 cursor-pointer hover:text-white bg-slate-200 rounded-b-md hover:shadow-xl hover:bg-blue-300 w-[400px] mx-auto"
+      className="transition-all duration-500 cursor-pointer text-white bg-blue-300 rounded-b-md hover:shadow-xl hover:bg-blue-400 w-[400px] h-[210px] mx-auto"
     >
-      <img src={feature.image} alt="" className="object-cover rounded-t-md" />
-      <h3 className="py-5 text-2xl text-center">{feature.title}</h3>
+      <img
+        src={feature.image}
+        alt=""
+        className="object-cover w-full rounded-t-md h-3/4"
+      />
+      <h3 className="my-2 text-2xl text-center h-1/4">{feature.title}</h3>
     </div>
   );
 };

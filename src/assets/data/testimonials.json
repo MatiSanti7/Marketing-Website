@@ -1,0 +1,32 @@
+[
+  {
+    "image": "./src/assets/image/profile-1.webp",
+    "name": "Emily Johnson",
+    "profession": "Small Business Owner",
+    "testimonial": "Thanks to the marketing service, I've seen a significant increase in sales at my store. The social media advertising strategy was very effective, and now I have more customers than ever."
+  },
+  {
+    "image": "./src/assets/image/profile-2.webp",
+    "name": "John Smith",
+    "profession": "Technology Company Manager",
+    "testimonial": "I am very impressed with the work of the marketing team. Their creative approach and ability to understand our market has helped us achieve our growth goals much faster than expected."
+  },
+  {
+    "image": "./src/assets/image/profile-4.webp",
+    "name": "Michael Taylor",
+    "profession": "Restaurant Owner",
+    "testimonial": "Since we started working with the marketing team, we've experienced a noticeable increase in the number of reservations at our restaurant. Their personalized approach and attention to detail have made a big difference."
+  },
+  {
+    "image": "./src/assets/image/profile-5.webp",
+    "name": "Olivia Brown",
+    "profession": "Marketing Manager",
+    "testimonial": "As a marketing professional, I've worked with many services in the past, but none have been as effective as this one. Their ability to adapt to our specific needs and deliver tangible results is truly impressive."
+  },
+  {
+    "image": "./src/assets/image/profile-3.webp",
+    "name": "Daniela Wilson",
+    "profession": "Freelancer",
+    "testimonial": "I hired the marketing service to promote my services as a freelancer, and the results have been incredible. I now have a solid list of regular clients, and my business is growing steadily."
+  }
+]
