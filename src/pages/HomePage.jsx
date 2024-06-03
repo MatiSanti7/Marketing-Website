@@ -50,9 +50,12 @@ const HomePage = () => {
             information about our services, don{"'"}t hesitate to reach out to
             us.
           </p>
-          <button className="w-1/4 py-2 text-2xl text-white transition-all bg-blue-300 rounded-md hover:bg-blue-400 hover:shadow-md">
+          <Link
+            to={"/landing"}
+            className="w-1/4 py-2 text-2xl text-center text-white transition-all bg-blue-300 rounded-md hover:bg-blue-400 hover:shadow-md"
+          >
             Contact
-          </button>
+          </Link>
         </div>
       </footer>
     </div>
